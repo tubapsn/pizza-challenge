@@ -31,5 +31,6 @@ function App() {
     </>
   )
 }
+//deneme 1,2
 
 export default App
