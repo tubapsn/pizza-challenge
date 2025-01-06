@@ -32,5 +32,6 @@ function App() {
   )
 }
 //deneme 1,2
+console.log("proje")
 
 export default App
